@@ -56,9 +56,9 @@ print(liczba_z_tekstu)
 import math
 pi = 3.15
 from math import *
-from math import pow , sqrt
+from math import pow , sqrt , pi
 import math as m
-# m.pow()
+# m.pow(2, 2)
 print(m.pi)
 
 # listy
