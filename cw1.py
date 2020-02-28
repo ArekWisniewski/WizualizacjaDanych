@@ -22,7 +22,7 @@ print(imie[2])
 imie ="Damam"
 imie = imie.lower()
 print(imie)
-wiek = 300
+wiek = 3000
 
 # print(imie + " ma" +wiek + "lat.")
 
